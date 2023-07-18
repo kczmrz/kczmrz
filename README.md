@@ -50,6 +50,9 @@
 [Restaurant app](https://github.com/kczmrz/nextjs-restaurant-app) - My fullstack project, which is meant to simulate a restaurant <br/>
 [Epic Rocket Clicker](https://github.com/kczmrz/epic-rocket-clicker) - My clicker game! <br/>
 [Discord Webhook Pilot](https://github.com/kczmrz/dc-webhook-pilot) - An application that was initially created for my own needs, but I decided to release it
+[Choose Your Streamer](https://github.com/kczmrz/choose-your-streamer-frontend) -an application where the user can vote for the streamer!
+
+
 
 ## Currently working
 [Your Pet Story](https://github.com/kczmrz/YourPetStory) - A simple CRUD for pet owners. The application is being created for the JustJoinIT competition. I am co-developing the application with my friend [@PiotrO9](https://github.com/PiotrO9) 
