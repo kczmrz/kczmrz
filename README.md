@@ -55,7 +55,7 @@
 
 
 ## Currently working
-[Your Pet Story](https://github.com/kczmrz/YourPetStory) - A simple CRUD for pet owners. The application is being created for the JustJoinIT competition. I am co-developing the application with my friend [@PiotrO9](https://github.com/PiotrO9) 
+[SECRET NAME] - Online browser game! 
 
 
 
