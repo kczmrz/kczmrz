@@ -1,6 +1,6 @@
 ![image](https://c.tenor.com/Cbg5pANDmxYAAAAC/tenor.gif)
 
-#Hi!
+# Hi!
 
 # About me!
 `👉 Kacper, 21 yo` <br/>
