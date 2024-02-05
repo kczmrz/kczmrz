@@ -5,6 +5,7 @@
 # About me!
 `👉 Kacper, 21 yo` <br/>
 `🇵🇱 Poland, under Warsaw` <br/>
+`🖥️ IT student`
 
 # 🖥️My stack:
 `React, Express, Next, Wordpress, C#, C/C++, MongoDB and many others`
